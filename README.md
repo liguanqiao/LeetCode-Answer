@@ -11,6 +11,7 @@
 9 | [回文数](https://liguanqiao.com/archives/leetcode-9) | [链接](https://github.com/liguanqiao/leetcode-answer/tree/main/src/com/liguanqiao/leetcode/id0009)
 13 | [罗马数字转整数](https://liguanqiao.com/archives/leetcode-13) | [链接](https://github.com/liguanqiao/leetcode-answer/tree/main/src/com/liguanqiao/leetcode/id0013)
 14 | [最长公共前缀](https://liguanqiao.com/archives/leetcode-14) | [链接](https://github.com/liguanqiao/leetcode-answer/tree/main/src/com/liguanqiao/leetcode/id0014)
+20 | [有效的括号](https://liguanqiao.com/archives/leetcode-20) | [链接](https://github.com/liguanqiao/leetcode-answer/tree/main/src/com/liguanqiao/leetcode/id0020)
 912 | [排序数组](https://liguanqiao.com/archives/leetcode-912) | [链接](https://github.com/liguanqiao/leetcode-answer/tree/main/src/com/liguanqiao/leetcode/id0912)
 
 ---

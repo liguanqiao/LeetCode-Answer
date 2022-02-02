@@ -5,7 +5,7 @@ import com.liguanqiao.leetcode.id0002.answer.IAddTwoNumbers;
 import com.liguanqiao.leetcode.id0002.bean.ListNode;
 
 /**
- * 1. 两数相加
+ * 2.两数相加
  * 题目：https://leetcode-cn.com/problems/add-two-numbers/
  * 题解：https://liguanqiao.com/archives/leetcode-2
  */

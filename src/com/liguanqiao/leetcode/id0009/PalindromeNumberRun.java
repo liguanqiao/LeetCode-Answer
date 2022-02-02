@@ -6,7 +6,7 @@ import com.liguanqiao.leetcode.id0009.answer.Id_0009_NumberReverseHalf;
 import com.liguanqiao.leetcode.id0009.answer.Id_0009_StringReverse;
 
 /**
- * 1. 两数之和
+ * 9.回文数
  * 题目：https://leetcode-cn.com/problems/palindrome-number/
  * 题解：https://liguanqiao.com/archives/leetcode-9
  */
